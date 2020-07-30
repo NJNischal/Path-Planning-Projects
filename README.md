@@ -19,3 +19,8 @@ https://github.com/NJNischal/V-REP-Pick-and-place
 ```
 https://github.com/NJNischal/A-and-Dijkstra-algorithm
 ```
+
+## Smoothed-Optimal-Planning-for-Autonomous-Vehicles
+```
+https://github.com/NJNischal/Smoothed-Optimal-Planning-for-Autonomous-Vehicles
+```
